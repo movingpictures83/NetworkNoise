@@ -1,0 +1,2 @@
+Prefix plugins/NetworkNoise/example/
+Plugin NetworkNoise inputfile synthetic.gml outputfile synthetic.noise.gml
