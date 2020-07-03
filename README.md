@@ -2,7 +2,8 @@
 # Language: Python
 # Input: GML (original network)
 # Output: GML (with noise)
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: networkx==2.2
 
 PluMA plugin that takes a network in the Graph Modeling Language (GML)
 and adds random noise N/2 times, where N is the number of nodes in the network.
